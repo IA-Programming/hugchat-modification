@@ -210,7 +210,11 @@ https://github.com/IntelligenzaArtificiale/Free-personal-AI-Assistant/assets/108
 ## Descargo de responsabilidad
 El siguiente descargo de responsabilidad es del repositorio de GitHub de los autores del [HugChat](https://github.com/Soulter/hugging-chat-api).
 > Cuando usas este proyecto, significa que has aceptado los siguientes dos requisitos de HuggingChat:
+## Descargo de responsabilidad
+El siguiente descargo de responsabilidad es del repositorio de GitHub de los autores del [HugChat](https://github.com/Soulter/hugging-chat-api).
+> Cuando usas este proyecto, significa que has aceptado los siguientes dos requisitos de HuggingChat:
 >
+> La IA es un área de investigación activa con problemas conocidos como generación sesgada y desinformación. No uses esta aplicación para decisiones o consejos importantes. Tus conversaciones se compartirán con los autores del modelo.
 > La IA es un área de investigación activa con problemas conocidos como generación sesgada y desinformación. No uses esta aplicación para decisiones o consejos importantes. Tus conversaciones se compartirán con los autores del modelo.
 >
 >[HugChat](https://github.com/Soulter/hugging-chat-api) es una versión no oficial del API de [HuggingFace Chat](https://huggingface.co/chat/) que está impulsada por el modelo LLM [OpenAssistant/oasst-sft-6-llama-30b-xor](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor).
