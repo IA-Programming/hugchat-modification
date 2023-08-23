@@ -182,7 +182,7 @@ with st.sidebar:
             # web search settings
             with st.expander("🌐 Web Search Settings", expanded=True):
                 if 'web_search' not in st.session_state or st.session_state['web_search'] == False:
-                    reg = ['us-en', 'uk-en', 'it-it']
+                    reg = ['us-en', 'uk-en', 'it-it', 'fr-fr', 'de-de', 'es-es', 'jp-jp']
                     sf = ['on', 'moderate', 'off']
                     tl = ['d', 'w', 'm', 'y']
                     if 'region' not in st.session_state:
